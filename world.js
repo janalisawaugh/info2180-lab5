@@ -31,9 +31,6 @@ window.addEventListener('load', function(){
 
     
 
-    searchbar.addEventListener('input', function(e){
-        e.preventDefault();
-        const searchVal = e.target.value;
-    })
+    
 
 })
